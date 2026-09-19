@@ -7,3 +7,6 @@ stored as a block containing the order details, timestamp,
 and a SHA-256 hash of the previous block. This creates a 
 tamper-evident chain where altering any record breaks every 
 subsequent hash.
+
+## Libraries
+Python, Alpaca API, hashlib, json
